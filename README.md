@@ -7,7 +7,7 @@ This version of the pong game runs similarly with the old version but is oriente
 &nbsp;&nbsp;* The First player to reach a score of 3 wins </br> 
 </br>
 # Added Feature
-When the a player is at two points (match point), the opposing player gains a speed boost power up which doubles the ball's speed when the player with the power up hits the ball. <br/>
+When the a player is at two points (match point), the opposing player gains a speed boost power up which doubles the ball's speed when the player with the power up hits the ball. <br/><br/>
 &nbsp;&nbsp;*Note: this lasts for two consecutive hits
 
 
