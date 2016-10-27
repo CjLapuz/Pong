@@ -7,7 +7,7 @@
 &nbsp;&nbsp;* The First player to reach a score of 3 wins </br> 
 </br>
 # Added Feature
-&nbsp;&nbsp; When the a player is at two points (match point), the opposing player gains a speed boost power up which doubles the ball speed when the player with the power up hits the ball. <br/>
+&nbsp;&nbsp; When the a player is at two points (match point), the opposing player gains a &nbsp;&nbsp;*speed boost power up which doubles the ball speed when the player with the power up hits the ball. <br/>
 &nbsp;&nbsp;*Note: this lasts for two consecutive hits
 
 
